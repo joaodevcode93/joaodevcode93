@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Pedrp Mendes Reis!
+# 👋 Olá, eu sou João Pedro Mendes Reis!
 
 ### 💻 Desenvolvedor PHP | Laravel | Docker | MySQL
 
