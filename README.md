@@ -16,5 +16,5 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou f
 
 ## 📫 Contato  
 📧 E-mail: joaopedrodev3@email.com  
-🔗 LinkedIn: [(https://www.linkedin.com/in/seulinkedin)  ](https://www.linkedin.com/in/joaodevcode93/)
+🔗 LinkedIn:https://www.linkedin.com/in/joaodevcode93/
 
